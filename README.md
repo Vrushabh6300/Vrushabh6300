@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Vrushabh Raorane**
 - 🎓 Final Year B.E. *(Information Technology)* student
-- 👀 I’m interested in Machine Learning & Data Analysis
+- 👀 I’m interested in <em>Machine Learning & Data Analysis </em>
 - 🌱 I’m currently learning how to learn effectively
 - 🎯 LinkedIn -> <a href="https://www.linkedin.com/in/vsraorane02/" target="_blank"><i>/vsraorane02</i></a>
 - 🎊 Instagram -> <a href="https://www.instagram.com/vrushabh.raorane/" target="_blank"><i>/vrushabh.raorane</i></a>
