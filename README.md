@@ -17,12 +17,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vrushabh6300&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vrushabh's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Vrushabh6300/python-project-blueprint">
+<a href="https://github.com/Vrushabh6300/Flask-Blog-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vrushabh6300&repo=Flask-Blog-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/Vrushabh6300/go-project-blueprint">
+<a href="https://github.com/Vrushabh6300/Machine_Learning_A-Z_Udemy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vrushabh6300&repo=Machine_Learning_A-Z_Udemy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 <br>
