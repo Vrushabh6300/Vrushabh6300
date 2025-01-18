@@ -1,10 +1,11 @@
 <h2>Hello there, I’m Vrushabh Raorane <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 
-- 🎓 Final Year B.E. *(Information Technology)* student
-- 👀 I’m interested in <em>Machine Learning & Data Analysis </em>
+- 👨‍💻 Junior Software Engineer @Netcracker Technology
+- 🎓 Completed B.E. *(Information Technology)* from Savitribai Phule Pune University
+- 👀 I’m interested in <em>PCoding, Backend development, Microservices</em>
 - 🌱 I’m currently learning how to learn effectively
-- 🎯 LinkedIn -> <a href="https://www.linkedin.com/in/vsraorane02/" target="_blank"><i>vsraorane02</i></a>
+- 🎯 LinkedIn -> <a href="https://www.linkedin.com/in/vrushabhraorane/" target="_blank"><i>vrushabhraorane</i></a>
 - 🎊 Instagram -> <a href="https://www.instagram.com/vrushabh.raorane/" target="_blank"><i>vrushabh.raorane</i></a>
 
 
